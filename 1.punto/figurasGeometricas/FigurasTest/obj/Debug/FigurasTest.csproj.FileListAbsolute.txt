@@ -1,0 +1,9 @@
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\FigurasTest.dll
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\FigurasTest.pdb
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\obj\Debug\FigurasTest.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\obj\Debug\FigurasTest.dll
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\obj\Debug\FigurasTest.pdb
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\figurasGeometricas.exe
+C:\Users\Sistemas\documents\visual studio 2015\Projects\figurasGeometricas\FigurasTest\bin\Debug\figurasGeometricas.pdb
